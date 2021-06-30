@@ -1,0 +1,20 @@
+.post-card {
+    height: 300px;
+
+}
+.post-card:hover{
+    box-shadow: 0 0 10px;
+}
+
+.post-card .post-card-header{
+    height: 60px;
+}
+
+.checkbox {
+    transform: scale(2);
+    cursor: pointer;
+}
+
+.label-hover{
+    cursor: pointer;
+}
